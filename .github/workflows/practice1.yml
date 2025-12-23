@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print hello 
-      - run: echo "hello"
+        run: echo "hello"
       - name: print key
-      - run: echo "goodbye"
+        run: echo "goodbye"
     
   
